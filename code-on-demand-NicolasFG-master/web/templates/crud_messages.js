@@ -39,6 +39,6 @@ $(function(){
             dataField: "user_from_id"
         }, {
             dataField: "user_to_id"
-        }, ],
+        } ]
     }).dxDataGrid("instance");
 });
